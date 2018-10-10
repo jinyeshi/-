@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# 金庸武侠小说新修版大体改动
 
-You can use the [editor on GitHub](https://github.com/jinyeshi/xinxiubandatigaidong/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[飞狐外传](https://jinyeshi.github.io/xinxiubandatigaidong/feihu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[雪山飞狐](https://jinyeshi.github.io/xinxiubandatigaidong/xueshan)
 
-### Markdown
+[连城诀](https://jinyeshi.github.io/xinxiubandatigaidong/liancheng)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[天龙八部](https://jinyeshi.github.io/xinxiubandatigaidong/tianlong)
 
-```markdown
-Syntax highlighted code block
+[射雕英雄传](https://jinyeshi.github.io/xinxiubandatigaidong/shediao)
 
-# Header 1
-## Header 2
-### Header 3
+[白马啸西风](https://jinyeshi.github.io/xinxiubandatigaidong/baima)
 
-- Bulleted
-- List
+[鹿鼎记](https://jinyeshi.github.io/xinxiubandatigaidong/luding)
 
-1. Numbered
-2. List
+[笑傲江湖](https://jinyeshi.github.io/xinxiubandatigaidong/xiaoao)
 
-**Bold** and _Italic_ and `Code` text
+[书剑恩仇录](https://jinyeshi.github.io/xinxiubandatigaidong/shujian)
 
-[Link](url) and ![Image](src)
-```
+[神雕侠侣](https://jinyeshi.github.io/xinxiubandatigaidong/shendiao)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[侠客行](https://jinyeshi.github.io/xinxiubandatigaidong/xiake)
 
-### Jekyll Themes
+[倚天屠龙记](https://jinyeshi.github.io/xinxiubandatigaidong/yitian)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jinyeshi/xinxiubandatigaidong/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[碧血剑](https://jinyeshi.github.io/xinxiubandatigaidong/bixue)
 
-### Support or Contact
+[鸳鸯刀](https://jinyeshi.github.io/xinxiubandatigaidong/yuanyang)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[越女剑](https://jinyeshi.github.io/xinxiubandatigaidong/yuenv)
